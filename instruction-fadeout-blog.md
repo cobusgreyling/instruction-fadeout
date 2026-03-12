@@ -202,5 +202,7 @@ The Agent is the product.
 The harness, including its ability to counteract instruction fade-out, is what makes it production-ready.
 
 ---
+The study: https://arxiv.org/pdf/2603.05344
+---
 
 *Chief AI Evangelist @ Kore.ai | I'm passionate about exploring the intersection of AI and language. From Language Models, AI Agents to Agentic Applications, Development Frameworks & Data-Centric Productivity Tools, I share insights and ideas on how these technologies are shaping the future.*
