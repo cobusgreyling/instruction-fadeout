@@ -2,6 +2,8 @@
 
 ## Instruction fade-out is something every AI builder experiences but few can name
 
+![Instruction Fade-Out](images/instruction-fadeout-header.jpg)
+
 I have written extensively about the Agent Harness as the critical infrastructure layer for AI Agents.
 
 In my previous post on AI Harness Engineering, I mapped the familiar computer architecture to the AI Agent stack.

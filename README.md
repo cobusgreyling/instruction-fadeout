@@ -2,6 +2,8 @@
 
 Demonstrating how LLM instruction compliance degrades over long conversations, and how event-driven system reminders recover it.
 
+![Instruction Fade-Out](images/instruction-fadeout-header.jpg)
+
 ## The Problem
 
 As conversations grow longer, LLMs progressively forget their system prompt instructions. The instructions are still in the context window — but their influence weakens with every turn. This is **instruction fade-out**.
